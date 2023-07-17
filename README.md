@@ -37,7 +37,7 @@
 
 ## :dart: About
 
-This small project that was created using a course from Wes Bos. In this project you can change a speed of palying video in your browser.
+This small project that was created using a course from Wes Bos. In this project you can change a speed of playing video in your browser.
 
 ## :rocket: Technologies
 
